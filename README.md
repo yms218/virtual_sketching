@@ -1,4 +1,4 @@
-# General Virtual Sketching Framework for Vector Line Art - SIGGRAPH 2021
+# General Virtual Sketching Framework for Vector Line Art
 
 This code is used for **line drawing vectorization**, **rough sketch simplification** and **photograph to vector line drawing**.
 
